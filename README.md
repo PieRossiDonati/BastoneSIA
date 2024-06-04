@@ -1,6 +1,6 @@
 # TO DO LIST
 -Modello 3d:
-	-Forma dispositivo	[X]
+	-[X]Forma dispositivo	
 	-Modello 3D con misure	[X]
 	-Stampare modello	[X]
 -Codice:	
