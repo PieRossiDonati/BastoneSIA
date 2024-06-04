@@ -1,18 +1,18 @@
 # TO DO LIST
--Modello 3d:
-	-[X]Forma dispositivo	
-	-Modello 3D con misure	[X]
-	-Stampare modello	[X]
--Codice:	
-	-Scegliere Librerie	[X]
-		-libreria x ultrasuoni
+## Modello 3d:
+[ ] Forma dispositivo	
+[ ] Modello 3D con misure
+[ ] Stampare modello	
 
-	-Programmare sensori	
-		-Sensore ultrasuoni	[X]
-		-Motore Vibrazione	[X]
+## Codice:	
+[ ] Librerie
 
-	-Unire codice		[X]
+### Programmare sensori	
+[ ] ensore ultrasuoni
+[ ] Motore Vibrazione
 
--Elettronica:	
-	-Scegliere Componenti	[V]
-	-Costruire circuito	[X]
+[ ] Unire codice	
+
+## Elettronica:	
+[X] Scegliere Componenti
+[ ] Costruire circuito
