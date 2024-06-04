@@ -10,12 +10,9 @@
 ## Codice:	
 -[ ] Librerie
 
-
-### Programmare sensori	
--[ ] ensore ultrasuoni
+-[ ] Sensore ultrasuoni
 
 -[ ] Motore Vibrazione
-
 
 -[ ] Unire codice	
 
